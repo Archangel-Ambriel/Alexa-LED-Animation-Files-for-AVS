@@ -1,0 +1,320 @@
+From e2793f595a85a2f5906cf8d0833a67260c5f50b7 Mon Sep 17 00:00:00 2001
+From: Ambriel Skoeld <ambriel.archangel@icloud.com>
+Date: Sun, 19 Apr 2020 14:44:20 +0200
+Subject: [PATCH] Så_vi_kan_bygga_upp_det_riktiga_:sparkles::small_red_triangle:”Tredje_Riket”:small_red_triangle::sparkles::round_pushpin::curly_loop::fire::heart:.epub-9a4f8f6.patch
+
+---
+ .github/workflows/Så_vi_kan_bygga_upp_det_riktiga_✨🔺”Tredje_Riket”🔺✨📍➰🔥❤️.epub-9a4f8f6.patch       | 95 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ keymaps/Så_vi_kan_bygga_upp_det_riktiga_✨🔺”Tredje_Riket”🔺✨📍➰🔥❤️.taskpaper_AutoCoding-51a61e0.patch | 95 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ styles/Så_vi_kan_bygga_upp_det_riktiga_✨🔺”Tredje_Riket”🔺✨📍➰🔥❤️.epub-9a4f8f6.patch                  | 95 -----------------------------------------------------------------------------------------------
+ 3 files changed, 190 insertions(+), 95 deletions(-)
+ create mode 100644 .github/workflows/Så_vi_kan_bygga_upp_det_riktiga_✨🔺”Tredje_Riket”🔺✨📍➰🔥❤️.epub-9a4f8f6.patch
+ create mode 100644 keymaps/Så_vi_kan_bygga_upp_det_riktiga_✨🔺”Tredje_Riket”🔺✨📍➰🔥❤️.taskpaper_AutoCoding-51a61e0.patch
+ delete mode 100644 styles/Så_vi_kan_bygga_upp_det_riktiga_✨🔺”Tredje_Riket”🔺✨📍➰🔥❤️.epub-9a4f8f6.patch
+
+diff --git "a/.github/workflows/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub-9a4f8f6.patch" "b/.github/workflows/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub-9a4f8f6.patch"
+new file mode 100644
+index 0000000..b6b8a04
+--- /dev/null
++++ "b/.github/workflows/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub-9a4f8f6.patch"
+@@ -0,0 +1,95 @@
++From 9a4f8f6e76b33dd2f3f8436d8f14e708906d4459 Mon Sep 17 00:00:00 2001
++From: Ambriel Skoeld <ambriel.archangel@icloud.com>
++Date: Sun, 19 Apr 2020 13:52:03 +0200
++Subject: [PATCH] Så vi kan bygga upp det riktiga :sparkles::small_red_triangle:”Tredje Riket”:small_red_triangle::sparkles::round_pushpin::curly_loop::fire::heart:.epub
++
++---
++ exports/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper                | 1 +
++ keymaps/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.epub                     | Bin 0 -> 2565 bytes
++ resources/linux/debian/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper | 1 +
++ resources/mac/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper          | 1 +
++ 4 files changed, 3 insertions(+)
++ create mode 100644 exports/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
++ create mode 100644 keymaps/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.epub
++ create mode 100644 resources/linux/debian/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
++ create mode 100644 resources/mac/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
++
++diff --git "a/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++new file mode 100644
++index 0000000..7497657
++--- /dev/null
+++++ "b/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++@@ -0,0 +1 @@
+++Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
++\ No newline at end of file
++diff --git "a/keymaps/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub" "b/keymaps/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub"
++new file mode 100644
++index 0000000000000000000000000000000000000000..631020790e5314c15758b699f76eb690d3b295be
++GIT binary patch
++literal 2565
++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
++
++literal 0
++Hc$@<O00001
++
++diff --git "a/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++new file mode 100644
++index 0000000..7497657
++--- /dev/null
+++++ "b/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++@@ -0,0 +1 @@
+++Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
++\ No newline at end of file
++diff --git "a/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++new file mode 100644
++index 0000000..7497657
++--- /dev/null
+++++ "b/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++@@ -0,0 +1 @@
+++Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
++\ No newline at end of file
++--
++Working Copy 4.1.8
++
+diff --git "a/keymaps/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper_AutoCoding-51a61e0.patch" "b/keymaps/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper_AutoCoding-51a61e0.patch"
+new file mode 100644
+index 0000000..f40c730
+--- /dev/null
++++ "b/keymaps/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper_AutoCoding-51a61e0.patch"
+@@ -0,0 +1,95 @@
++From 51a61e023ff7cd3746c783321b0de028984d61b6 Mon Sep 17 00:00:00 2001
++From: Ambriel Skoeld <ambriel.archangel@icloud.com>
++Date: Sun, 19 Apr 2020 13:56:10 +0200
++Subject: [PATCH] Så vi kan bygga upp det riktiga :sparkles::small_red_triangle:”Tredje Riket”:small_red_triangle::sparkles::round_pushpin::curly_loop::fire::heart:.taskpaper AutoCoding
++
++---
++ exports/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper                | 1 +
++ keymaps/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.epub                     | Bin 0 -> 2565 bytes
++ resources/linux/debian/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper | 1 +
++ resources/mac/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper          | 1 +
++ 4 files changed, 3 insertions(+)
++ create mode 100644 exports/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
++ create mode 100644 keymaps/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.epub
++ create mode 100644 resources/linux/debian/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
++ create mode 100644 resources/mac/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
++
++diff --git "a/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++new file mode 100644
++index 0000000..7497657
++--- /dev/null
+++++ "b/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++@@ -0,0 +1 @@
+++Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
++\ No newline at end of file
++diff --git "a/keymaps/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub" "b/keymaps/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub"
++new file mode 100644
++index 0000000000000000000000000000000000000000..631020790e5314c15758b699f76eb690d3b295be
++GIT binary patch
++literal 2565
++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
++
++literal 0
++Hc$@<O00001
++
++diff --git "a/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++new file mode 100644
++index 0000000..7497657
++--- /dev/null
+++++ "b/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++@@ -0,0 +1 @@
+++Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
++\ No newline at end of file
++diff --git "a/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++new file mode 100644
++index 0000000..7497657
++--- /dev/null
+++++ "b/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
++@@ -0,0 +1 @@
+++Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
++\ No newline at end of file
++--
++Working Copy 4.1.8
++
+diff --git "a/styles/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub-9a4f8f6.patch" "b/styles/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub-9a4f8f6.patch"
+deleted file mode 100644
+index b6b8a04..0000000
+--- "a/styles/S\303\245_vi_kan_bygga_upp_det_riktiga_\342\234\250\360\237\224\272\342\200\235Tredje_Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub-9a4f8f6.patch"
++++ /dev/null
+@@ -1,95 +0,0 @@
+-From 9a4f8f6e76b33dd2f3f8436d8f14e708906d4459 Mon Sep 17 00:00:00 2001
+-From: Ambriel Skoeld <ambriel.archangel@icloud.com>
+-Date: Sun, 19 Apr 2020 13:52:03 +0200
+-Subject: [PATCH] Så vi kan bygga upp det riktiga :sparkles::small_red_triangle:”Tredje Riket”:small_red_triangle::sparkles::round_pushpin::curly_loop::fire::heart:.epub
+-
+----
+- exports/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper                | 1 +
+- keymaps/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.epub                     | Bin 0 -> 2565 bytes
+- resources/linux/debian/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper | 1 +
+- resources/mac/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper          | 1 +
+- 4 files changed, 3 insertions(+)
+- create mode 100644 exports/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
+- create mode 100644 keymaps/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.epub
+- create mode 100644 resources/linux/debian/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
+- create mode 100644 resources/mac/Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️.taskpaper
+-
+-diff --git "a/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
+-new file mode 100644
+-index 0000000..7497657
+---- /dev/null
+-+++ "b/exports/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
+-@@ -0,0 +1 @@
+-+Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
+-\ No newline at end of file
+-diff --git "a/keymaps/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub" "b/keymaps/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.epub"
+-new file mode 100644
+-index 0000000000000000000000000000000000000000..631020790e5314c15758b699f76eb690d3b295be
+-GIT binary patch
+-literal 2565
+-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
+-
+-literal 0
+-Hc$@<O00001
+-
+-diff --git "a/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
+-new file mode 100644
+-index 0000000..7497657
+---- /dev/null
+-+++ "b/resources/linux/debian/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
+-@@ -0,0 +1 @@
+-+Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
+-\ No newline at end of file
+-diff --git "a/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper" "b/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
+-new file mode 100644
+-index 0000000..7497657
+---- /dev/null
+-+++ "b/resources/mac/S\303\245 vi kan bygga upp det riktiga \342\234\250\360\237\224\272\342\200\235Tredje Riket\342\200\235\360\237\224\272\342\234\250\360\237\223\215\342\236\260\360\237\224\245\342\235\244\357\270\217.taskpaper"
+-@@ -0,0 +1 @@
+-+Så vi kan bygga upp det riktiga ✨🔺”Tredje Riket”🔺✨📍➰🔥❤️:
+-\ No newline at end of file
+---
+-Working Copy 4.1.8
+-
+--
+Working Copy 4.1.8
+
