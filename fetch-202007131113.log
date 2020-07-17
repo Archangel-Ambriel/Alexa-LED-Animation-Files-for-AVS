@@ -1,0 +1,30 @@
+Using SSH key ssh-rsa 4096 ab:90:3c:2f:36:58:ea:d5:5b:cd:79:58:80:1c:0a:54
+Enumerating objects: 20, done.
+Enumerating objects: 20, done.
+Counting objects:   5% (1/20)Counting objects:  10% (2/20)Counting objects:  15% (3/20)Counting objects:  20% (4/20)Counting
+ objects:  25% (5/20)Counting objects:  30% (6/20)Counting objects:  35% (7/20)Counting objects:  40% (8/20)Counting objects
+:  45% (9/20)Counting objects:  50% (10/20)Counting objects:  55% (11/20)Counting objects:  60% (12/20)Counting objects:  65
+% (13/20)Counting objects:  70% (14/20)Counting objects:  75% (15/20)Counting objects:  80% (16/20)Counting objects:  85% (1
+7/20)Counting objects:  90% (18/20)Counting objects:  95% (19/20)Counting objects: 100% (20/20)Counting objects: 100% (20/20
+), done.
+Compressing objects:  12% (1/8)Compressing objects:  25% (2/8)Compressing objects:  37% (3/8)
+Compressing objects:  50% (4/8)
+Compressing objects:  62% (5/8)
+Compressing objects:  75% (6/8)
+Compressing objects:  87% (7/8)
+Compressing objects: 100% (8/8)
+Compressing objects: 100% (8/8), done.
+Counting objects:   5% (1/20)Counting objects:  10% (2/20)Counting objects:  15% (3/20)Counting objects:  20% (4/20)
+Counting objects:  25% (5/20)Counting objects:  30% (6/20)Counting objects:  35% (7/20)Counting objects:  40% (8/20)
+Counting objects:  45% (9/20)Counting objects:  50% (10/20)Counting objects:  55% (11/20)Counting objects:  60% (12/20)
+Counting objects:  65% (13/20)Counting objects:  70% (14/20)Counting objects:  75% (15/20)Counting objects:  80% (16/20)
+Counting objects:  85% (17/20)Counting objects:  90% (18/20)Counting objects:  95% (19/20)Counting objects: 100% (20/20)
+Counting objects: 100% (20/20), done.
+Compressing objects:  12% (1/8)Compressing objects:  25% (2/8)Compressing objects:  37% (3/8)Compressing objects:  50% (4/8)
+Compressing objects:  62% (5/8)
+Compressing objects:  75% (6/8)
+Compressing objects:  87% (7/8)
+Compressing objects: 100% (8/8)
+Compressing objects: 100% (8/8), done.
+Total 26 (delta 12), reused 12 (delta 12), pack-reused 6
+Total 26 (delta 12), reused 12 (delta 12), pack-reused 6

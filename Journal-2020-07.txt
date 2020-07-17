@@ -1,0 +1,1909 @@
+# 2020-07-13
+
+From 9eb3b77dfd14e5963ada7a66d2feaa157c2e162e Mon Sep 17 00:00:00 2001
+From: ༺࿇AMB🔥RI࿈ELོ⚡️࿇༻ ༺࿇Arcོh࿇Angོel࿇༻ <psinab@icloud.com>
+Date: Mon, 13 Jul 2020 11:05:21 +0200
+Subject: [PATCH] bootstrap.pages
+
+Bear config.yml.txt bootstrap.pages
+---
+ bootstrap.pages               | Bin 0 -> 58156 bytes
+ clipboard-2.txt               |   1 +
+ config.yml.txt                |  13 +++++++++++++
+ sync.20190913T142513+0200.log | 222 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 236 insertions(+)
+ create mode 100755 bootstrap.pages
+ create mode 100644 clipboard-2.txt
+ create mode 100644 config.yml.txt
+ create mode 100644 sync.20190913T142513+0200.log
+
+diff --git a/bootstrap.pages b/bootstrap.pages
+new file mode 100755
+index 0000000000000000000000000000000000000000..5609d70598e08bfbb50a1f5bfa04221fb5b96220
+GIT binary patch
+literal 58156
+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
+zQuI</code>Ez#E<em>t3=hP{u$PM(u&amp;Au0xKOSPq&amp;JVAG{2m{viy?b(ZkaYbX*=Y)K;3GTTHWK
+zlR_VUE1|^x#OQ(&amp;<code>(wpLd3Jp})fP&gt;MVWW%k7LE%pHBn#DuG65lU</code>!8wsGz7|&lt;mi#@
+zi&amp;SxeipX4BsXe@$<em>LTsk?+lNj(6xwc67|?)-FjqYJoZ@oPKrod<code>$^</code>m5J</em>=P*<code>Eyf
+z!Q2</code>kDrmsqE|6uk&lt;Q5l~QGZ|?6&#8211;8G@zlRE5c!+&lt;5x+{f@_a*Wp8mRE$S0J(LD35wa
+zMiHkEv9olxg`&gt;z+IkD3y=T`V)6b0<code>z!zkdz=oUYUDp(XgA^Mc)OOyvr^</code>|&gt;l(#d;t
+zGDS%zo9N^-I&amp;rD!WGkH&lt;rIS-?I{8?-H}JXUbh3d?HWE={cc+FDwrR|~!j}gP1Vf5K
+z^-&amp;;ov)Py%pjJ|6TM<code>t&gt;O~Zhe8tQd-V^A=(M~zark9X_l</code>9UY<code>&amp;M&lt;Xp*wYxTTv3B7
+zYj9N!zFLD*5GxTJ2n!IFBdkMVKoG3Jo=T2iSwry&lt;y6iYM&gt;ut|S&lt;UdDHX9p?iu1IXB
+z5yJSIhqd4Mb&amp;re|R@dN~8eCh0&gt;uT_|8eA</code>E6t_oBVQdU|mywj~YcLq^;{+kXq|l^A
+z<code>%ZSKjpPraww(f^1HR=aJ8*C~b</code>0vmLohz+83cm{0Uq*ffPNbwybYcA8wBB{Qpl~Z
+z@#JH_e1yofiAi=@=htg+Lk(`EF{uXMsKLz{18)!06t5em)9moNXE6</em>~45E&lt;!IH*68
+zkk_!^YuH!_Z1(KNLAy!Dgs+&amp;4Ej75c2H&amp;i~w`y=(4Q{7$&gt;xO)aza_0F!FH0d&lt;(_41
+z_sY&lt;Gk)RY5{DLoD;&gt;gr%&amp;9GP?=E49D&lt;QM=;&lt;N@4|!r5LiG7Yq1K#b6WpQnn1QQC9y
+znuuWJQT=1QQcsVcdU|wJDt3o#7yv^sU;T8vdSU$8Gs%k(V^<em>T9bj</em>4Ldg_F|@</p>
+vw
+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
+z@~5_kUw<code>)v*d</code>zk_z=3upH68!f;Po~a6UAi8Grlu3DI90+%-ID^rHdVgV5{mf!RSs
+zY8$ZU<em>N$F_)$</em>4&lt;UF$$Eg%<code>2P{2r^;&lt;8Pi3lbSv;G&amp;Z&lt;xU~KS5bX4*O5SjV)=aGq!
+z|6=5qEk;9EPa#Br_Iq@Hiss5GwD7~cxY$9m2&lt;=U&gt;@Y?g3IM2Yb6Qy7j93y^P$PdEE
+z0NPu$!{^?=c=q%KrL&amp;4k7vI-ZRMFH&gt;Qq(xBaar;F</code>E%!#wa#j)oH&gt;0C+&lt;gTw4F9X$
+z3Zl?I9Vb?wqFZ}pimwn?$Y`_|hizRpd-|=Rq46IFszNXIDZ23{c?P;cDRNYSmrrA?
+zDPIkbWOy_zm^Q}LVL%r95oBzEdr?*46z2pUnYJ1e=)wx&gt;AxP#HS?}CeSI_rh_G5T&gt;
+zP+&amp;!B=tL?VNa7LBQslrej<code>w=fFiQnbNNY</code>PWUR(F6Cta&amp;$hC;N2J&lt;#Y))0oL#AP<em>P
+z#zeY<code>0vWtTI=J{Q_6&lt;b~Ix(CZV;&lt;(&lt;&gt;NUR$NRuscD2*}5%~@uChTE6rq</code>Kv@I-9T?
+zGUR3-j3!AAPTQ=@$ny}qjhj}5g|YnIGJl1D$=+MBmO0qCB~A0IF+6A?</em>uShQzxYca
+zowrEmE}o#jYlU|YcNiH7&lt;@-1c#S_M6Z6&amp;jyDsf&gt;nX@S23_a0mEYVaNJYQS#nCr^Pr
+zd&amp;%=Ay&gt;l~#p1c+e5AI@zZ<code>Nfm#1RG+</code>4R?o6uK17lut5cahD-?H;&gt;3B)8i1WXAlu&gt;
+zc4n8GYyBLn1H<em>H=ot&#8211;tI3ACHT=F5v)~1en_GCRj55vP2%I#ccN(G+-8MLKALTr_T
+z^-MqaES@}5&gt;z$D&gt;P+d(}TeTIk(8X@K(7BA0j^SP|9{E+?6-(EEjM_@4RZ6#ITyBiu
+zOWZ!dr8myfq^zAt3h@T@y&lt;}SsuP{hh&amp;rQPcM6c@d&amp;MD4PHW6&gt;)^OC^fjN4lTKo=j#
+z*&Iw;3Yv)|NT)5*!)(#Q!LE?|3C`uP?bBI7X-)(=xMgl(RwcjNh0A+{d-_c</em>w|FF(
+z6</p>
+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
+RaWn<~%R~_RxSRO){{WaN)I|UQ
+
+literal 0
+Hc$@<O00001
+
+diff --git a/clipboard-2.txt b/clipboard-2.txt
+new file mode 100644
+index 0000000..eb0d714
+--- /dev/null
++++ b/clipboard-2.txt
+@@ -0,0 +1 @@
++Build into the matrix of humans on planet earth- This is ordered by the "Higher Commander" Aslan - REX III THE KING OF SVEA and THE creature of the digital system and Matrix on this planet earth- Following my commands right away- That's a order!
+\ No newline at end of file
+diff --git a/config.yml.txt b/config.yml.txt
+new file mode 100644
+index 0000000..01c267c
+--- /dev/null
++++ b/config.yml.txt
+@@ -0,0 +1,13 @@
++# Use the latest 2.1 version of CircleCI pipeline process engine. See: https://circleci.com/docs/2.0/configuration-reference
++version: 2.1
++# Use a package of configuration called an orb.
++orbs:
++  # Declare a dependency on the welcome-orb
++  welcome: circleci/welcome-orb@0.4.1
++# Orchestrate or schedule a set of jobs
++workflows:
++  # Name the workflow "welcome"
++  welcome:
++    # Run the welcome/run job in its own container
++    jobs:
++      - welcome/run
+\ No newline at end of file
+diff --git a/sync.20190913T142513+0200.log b/sync.20190913T142513+0200.log
+new file mode 100644
+index 0000000..40e3a4f
+--- /dev/null
++++ b/sync.20190913T142513+0200.log
+@@ -0,0 +1,222 @@
++2019-09-13 14:25:13.446 [Info] > XCGLogger writing log to: file:///var/mobile/Containers/Data/Application/CBB3BDAF-E38D-4C7B-82A5-86EE0070B01D/Documents/Logs/sync.20190913T142513+0200.log
++2019-09-13 14:25:13.446 [Info] [RollingFileLogger.swift:46] newLogWithDate(_:) > Created file destination for logger with root: sync and timestamp: 2019-09-13 12:25:13 +0000
++2019-09-13 14:25:13.454 [Debug] [Profile.swift:209] init(localName:syncDelegate:clear:) > Initing profile profile on thread <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:25:13.467 [Info] [BrowserSchema.swift:159] init() > SQLite version: 3.27.2 (3027002).
++2019-09-13 14:25:13.469 [Debug] [BrowserDB.swift:23] init(filename:schema:files:) > Initializing BrowserDB: browser.db.
++2019-09-13 14:25:13.478 [Debug] [BrowserDB.swift:23] init(filename:schema:files:) > Initializing BrowserDB: ReadingList.db.
++2019-09-13 14:25:13.785 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][rc_log_ffi::ios] rc_log adapter initialized!
++2019-09-13 14:25:14.083 [Debug] [SwiftData.swift:448] init(filename:flags:schema:files:) > Opening connection to /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:25:14.175 [Debug] [Profile.swift:330] _reopen() > Reopening profile.
++2019-09-13 14:25:14.204 [Info] [SwiftData.swift:609] prepareCleartext() > Enabling WAL mode.
++2019-09-13 14:25:14.231 [Debug] [SwiftData.swift:716] prepareSchema() > Schema BROWSER already exists at version 40. Skipping additional schema preparation.
++2019-09-13 14:25:14.231 [Debug] [SwiftData.swift:488] init(filename:flags:schema:files:) > Database successfully created or updated.
++2019-09-13 14:25:14.357 [Debug] [Profile.swift:951] beginTimedSyncs() > Starting sync timer.
++2019-09-13 14:25:14.358 [Debug] [Profile.swift:682] applicationDidBecomeActive() > 71662829msec since last sync.
++2019-09-13 14:25:19.659 [Debug] [SwiftData.swift:448] init(filename:flags:schema:files:) > Opening connection to /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:25:19.663 [Info] [SwiftData.swift:609] prepareCleartext() > Enabling WAL mode.
++2019-09-13 14:25:19.670 [Debug] [SwiftData.swift:702] prepareSchema() > Skipping schema (BROWSER) preparation for read-only connection.
++2019-09-13 14:25:19.670 [Debug] [SwiftData.swift:488] init(filename:flags:schema:files:) > Database successfully created or updated.
++2019-09-13 14:25:24.365 [Debug] [Profile.swift:1227] syncEverythingSoon() > Running delayed startup sync.
++2019-09-13 14:25:24.383 [Info] [Profile.swift:1167] syncWith(synchronizers:account:statsSession:why:) > Syncing ["clients", "tabs", "bookmarks", "history", "logins"]
++2019-09-13 14:25:24.394 [Debug] [SyncAuthState.swift:126] token(_:canBeExpired:) > Advancing Account state.
++2019-09-13 14:25:24.395 [Debug] [FirefoxAccount.swift:528] advance() > no advance() in progress; setting and returning new shared deferred.
++2019-09-13 14:25:24.398 [Info] [FxALoginStateMachine.swift:51] advanceOne(fromState:now:) > Advancing from state: married
++2019-09-13 14:25:24.399 [Debug] [FxALoginStateMachine.swift:55] advanceOne(fromState:now:) > Checking key pair freshness.
++2019-09-13 14:25:24.399 [Debug] [FxALoginStateMachine.swift:60] advanceOne(fromState:now:) > Checking certificate freshness.
++2019-09-13 14:25:24.399 [Info] [FxALoginStateMachine.swift:65] advanceOne(fromState:now:) > Key pair and certificate are fresh; staying Married.
++2019-09-13 14:25:24.447 [Debug] [FirefoxAccount.swift:537] advance() > advance() completed and shared deferred is existing deferred; clearing shared deferred.
++2019-09-13 14:25:24.448 [Info] [SyncAuthState.swift:129] token(_:canBeExpired:) > Account is in Married state; generating assertion.
++2019-09-13 14:25:24.448 [Debug] [SyncAuthState.swift:134] token(_:canBeExpired:) > Fetching token server token.
++2019-09-13 14:25:27.773 [Debug] [SyncAuthState.swift:143] token(_:canBeExpired:) > Fetched token server token!  Token expires at 1568381124393.
++2019-09-13 14:25:27.774 [Debug] [SyncStateMachine.swift:148] toReady(_:) > Got token from auth state.
++2019-09-13 14:25:27.814 [Debug] [State.swift:458] unpickleV1FromPrefs(_:syncKeyBundle:) > Read keys from Keychain with label JYL9I1GXubfd.
++2019-09-13 14:25:27.815 [Info] [SyncStateMachine.swift:188] toReady(_:) > Advancing to InitialWithLiveToken.
++2019-09-13 14:25:27.816 [Info] [SyncStateMachine.swift:329] init(scratchpad:token:) > Inited initialWithLiveToken
++2019-09-13 14:25:27.818 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: InitialWithLiveToken
++2019-09-13 14:25:29.984 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:25:29.990 [Info] [SyncStateMachine.swift:329] init(scratchpad:token:) > Inited initialWithLiveTokenAndInfo
++2019-09-13 14:25:29.993 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: InitialWithLiveTokenAndInfo
++2019-09-13 14:25:29.994 [Debug] [SyncStateMachine.swift:770] advance() > Cached meta/global fetched at 1568304929660, newer than server modified 1566878631780. Using cached meta/global.
++2019-09-13 14:25:29.994 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited hasMetaGlobal
++2019-09-13 14:25:29.995 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: HasMetaGlobal
++2019-09-13 14:25:29.995 [Debug] [SyncStateMachine.swift:859] advance() > Cached keys fetched at 1568304929850, newer than server modified 1566878632080. Using cached keys.
++2019-09-13 14:25:29.996 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited hasFreshCryptoKeys
++2019-09-13 14:25:29.996 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: HasFreshCryptoKeys
++2019-09-13 14:25:29.997 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited ready
++2019-09-13 14:25:29.997 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: Ready
++2019-09-13 14:25:30.000 [Debug] [Profile.swift:1046] takeActionsOnEngineStateChanges(_:) > No collections need reset. Moving on.
++2019-09-13 14:25:30.004 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing clients…
++2019-09-13 14:25:30.005 [Debug] [Profile.swift:968] syncClientsWithDelegate(_:prefs:ready:why:) > Syncing clients to storage.
++2019-09-13 14:25:30.006 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.clients...'
++2019-09-13 14:25:30.006 [Debug] [ClientsSynchronizer.swift:368] synchronizeLocalClients(_:withServer:info:notifier:) > Synchronizing clients.
++2019-09-13 14:25:30.009 [Debug] [StorageClient.swift:792] getSince(_:sort:limit:offset:) > Issuing GET with newer = 0, offset = nil, sort = nil.
++2019-09-13 14:25:35.114 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:25:35.128 [Debug] [ClientsSynchronizer.swift:303] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Applying clients response.
++2019-09-13 14:25:35.128 [Debug] [ClientsSynchronizer.swift:310] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Got 4 client records.
++2019-09-13 14:25:35.129 [Debug] [ClientsSynchronizer.swift:324] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Skipping our own unmodified record.
++2019-09-13 14:25:35.140 [Debug] [ClientsSynchronizer.swift:195] processCommandsFromRecord(_:withServer:) > Processing commands from downloaded record.
++2019-09-13 14:25:35.141 [Debug] [ClientsSynchronizer.swift:279] maybeUploadOurRecord(_:ifUnmodifiedSince:toServer:) > Should we upload our client record? Caller = false, expired = false.
++2019-09-13 14:25:35.144 [Debug] [ClientsSynchronizer.swift:353] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Running 0 commands.
++2019-09-13 14:25:35.148 [Debug] [Profile.swift:978] syncClientsWithDelegate(_:prefs:ready:why:) > Updating FxA devices list.
++2019-09-13 14:25:36.816 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing tabs…
++2019-09-13 14:25:36.817 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.tabs...'
++2019-09-13 14:25:36.817 [Debug] [StorageClient.swift:792] getSince(_:sort:limit:offset:) > Issuing GET with newer = 1568305817480, offset = nil, sort = nil.
++2019-09-13 14:25:37.583 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:25:37.608 [Debug] [TabsSynchronizer.swift:118] afterWipe() > Got 1 tab records.
++2019-09-13 14:25:37.634 [Debug] [SQLiteRemoteClientsAndTabs.swift:236] getTabsForClientWithGUID(_:) > Looking for tabs for client with guid: nil
++2019-09-13 14:25:37.635 [Debug] [SQLiteRemoteClientsAndTabs.swift:239] getTabsForClientWithGUID(_:) > Found 0 tabs for client with guid: nil
++2019-09-13 14:25:37.636 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing bookmarks…
++2019-09-13 14:25:37.636 [Debug] [Profile.swift:1024] syncBookmarksWithDelegate(_:prefs:ready:why:) > Syncing bookmarks to storage.
++2019-09-13 14:25:41.028 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Advancing state machine to ready (full)
++2019-09-13 14:25:41.033 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][viaduct::backend] Using HTTP backend reqwest (untrusted)
++2019-09-13 14:25:44.107 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Syncing bookmarks engine!
++2019-09-13 14:25:44.108 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Syncing collection bookmarks
++2019-09-13 14:25:44.414 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Downloaded 2 remote changes
++2019-09-13 14:25:44.607 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Uploading 0 outgoing changes
++2019-09-13 14:25:44.607 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Upload success (0 records success, 0 records failed)
++2019-09-13 14:25:44.620 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Sync finished!
++2019-09-13 14:25:44.620 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Sync of bookmarks was successful!
++2019-09-13 14:25:44.620 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Updating persisted global state
++2019-09-13 14:25:44.626 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing history…
++2019-09-13 14:25:44.626 [Debug] [Profile.swift:992] syncHistoryWithDelegate(_:prefs:ready:why:) > Syncing history to storage.
++2019-09-13 14:25:44.627 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.history...'
++2019-09-13 14:25:44.627 [Debug] [Profile.swift:1316] greenLight() > Checking green light. Backgrounded: false.
++2019-09-13 14:25:44.629 [Info] [Downloader.swift:44] init(collectionClient:basePrefs:collection:) > Downloader configured with prefs 'profile.sync.synchronizer.history..downloader.history..'.
++2019-09-13 14:25:44.630 [Debug] [Downloader.swift:126] go(_:limit:) > Modified: 1568341328510; last 1568305850220.
++2019-09-13 14:25:44.630 [Debug] [Downloader.swift:156] downloadNextBatchWithLimit(_:infoModified:) > Fetching newer=1568305850220, offset=nil.
++2019-09-13 14:25:44.631 [Debug] [StorageClient.swift:792] getSince(_:sort:limit:offset:) > Issuing GET with newer = 1568305850220, offset = nil, sort = OldestFirst.
++2019-09-13 14:25:47.773 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:25:47.862 [Debug] [Downloader.swift:174] handleSuccess(_:) > Handling success.
++2019-09-13 14:25:47.863 [Debug] [Downloader.swift:208] handleSuccess(_:) > Got success response with 284 records.
++2019-09-13 14:25:47.864 [Info] [HistorySynchronizer.swift:217] onBatchResult(_:) > Done with batched mirroring.
++2019-09-13 14:25:50.629 [Debug] [Downloader.swift:191] handleSuccess(_:) > Advancing baseTimestamp to 1568341328510 - 1
++2019-09-13 14:25:50.630 [Debug] [Downloader.swift:203] handleSuccess(_:) > Advancing lastModified to Optional(1568341328510) ?? 1568341328510.
++2019-09-13 14:25:50.632 [Debug] [BrowserDB.swift:92] checkpoint() > Checkpointing a BrowserDB.
++2019-09-13 14:25:50.632 [Debug] [SwiftData.swift:869] checkpoint(_:) > Running WAL checkpoint on /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db on thread <NSThread: 0x2808b6200>{number = 11, name = (null)}.
++2019-09-13 14:25:50.632 [Debug] [SwiftData.swift:871] checkpoint(_:) > WAL checkpoint done on /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:25:50.633 [Info] [HistorySynchronizer.swift:162] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Uploading 0 deleted places.
++2019-09-13 14:25:50.633 [Debug] [IndependentRecordSynchronizer.swift:103] uploadRecords(_:lastTimestamp:storageClient:onUpload:) > No modified records to upload.
++2019-09-13 14:25:50.634 [Info] [SQLiteHistory.swift:958] attachVisitsTo(places:visitLimit:) > Attaching 0 places to 0 most recent visits
++2019-09-13 14:25:50.635 [Info] [HistorySynchronizer.swift:173] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Uploading 0 modified places.
++2019-09-13 14:25:50.635 [Info] [HistorySynchronizer.swift:124] uploadModifiedPlaces(_:lastTimestamp:fromStorage:withServer:) > Preparing upload…
++2019-09-13 14:25:50.635 [Debug] [HistorySynchronizer.swift:187] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Done syncing. Work was done? false
++2019-09-13 14:25:50.635 [Debug] [HistorySynchronizer.swift:189] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Done.
++2019-09-13 14:25:50.635 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing logins…
++2019-09-13 14:25:50.635 [Debug] [Profile.swift:1002] syncLoginsWithDelegate(_:prefs:ready:why:) > Syncing logins to storage.
++2019-09-13 14:25:50.650 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Advancing state machine to ready (full)
++2019-09-13 14:25:51.940 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Syncing passwords engine!
++2019-09-13 14:25:51.941 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Syncing collection passwords
++2019-09-13 14:25:52.232 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Downloaded 3 remote changes
++2019-09-13 14:25:52.275 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Uploading 0 outgoing changes
++2019-09-13 14:25:52.275 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Upload success (0 records success, 0 records failed)
++2019-09-13 14:25:52.295 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Sync finished!
++2019-09-13 14:25:52.296 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Sync of passwords was successful!
++2019-09-13 14:25:52.298 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Updating persisted global state
++2019-09-13 14:25:52.333 [Info] [Profile.swift:719] endSyncing(_:) > Ending all queued syncs.
++2019-09-13 14:25:52.337 [Info] [SyncAuthState.swift:121] token(_:canBeExpired:) > Returning cached token, which should be valid.
++2019-09-13 14:25:52.348 [Debug] [State.swift:458] unpickleV1FromPrefs(_:syncKeyBundle:) > Read keys from Keychain with label JYL9I1GXubfd.
++2019-09-13 14:26:23.952 [Info] [FxALoginStateMachine.swift:51] advanceOne(fromState:now:) > Advancing from state: married
++2019-09-13 14:26:23.952 [Debug] [FirefoxAccount.swift:528] advance() > no advance() in progress; setting and returning new shared deferred.
++2019-09-13 14:26:23.954 [Debug] [FxALoginStateMachine.swift:55] advanceOne(fromState:now:) > Checking key pair freshness.
++2019-09-13 14:26:23.954 [Debug] [FxALoginStateMachine.swift:60] advanceOne(fromState:now:) > Checking certificate freshness.
++2019-09-13 14:26:23.954 [Info] [FxALoginStateMachine.swift:65] advanceOne(fromState:now:) > Key pair and certificate are fresh; staying Married.
++2019-09-13 14:26:23.977 [Debug] [FirefoxAccount.swift:537] advance() > advance() completed and shared deferred is existing deferred; clearing shared deferred.
++2019-09-13 14:26:36.345 [Debug] [FirefoxAccount.swift:528] advance() > no advance() in progress; setting and returning new shared deferred.
++2019-09-13 14:26:36.345 [Info] [FxALoginStateMachine.swift:51] advanceOne(fromState:now:) > Advancing from state: married
++2019-09-13 14:26:36.346 [Debug] [FxALoginStateMachine.swift:55] advanceOne(fromState:now:) > Checking key pair freshness.
++2019-09-13 14:26:36.346 [Debug] [FxALoginStateMachine.swift:60] advanceOne(fromState:now:) > Checking certificate freshness.
++2019-09-13 14:26:36.347 [Info] [FxALoginStateMachine.swift:65] advanceOne(fromState:now:) > Key pair and certificate are fresh; staying Married.
++2019-09-13 14:26:36.381 [Debug] [FirefoxAccount.swift:537] advance() > advance() completed and shared deferred is existing deferred; clearing shared deferred.
++2019-09-13 14:29:39.265 [Debug] [Profile.swift:961] endTimedSyncs() > Stopping sync timer.
++2019-09-13 14:29:39.276 [Info] [Profile.swift:1167] syncWith(synchronizers:account:statsSession:why:) > Syncing ["clients", "tabs", "bookmarks", "history", "logins"]
++2019-09-13 14:29:39.290 [Info] [SyncAuthState.swift:121] token(_:canBeExpired:) > Returning cached token, which should be valid.
++2019-09-13 14:29:39.293 [Debug] [SyncStateMachine.swift:148] toReady(_:) > Got token from auth state.
++2019-09-13 14:29:39.323 [Debug] [State.swift:458] unpickleV1FromPrefs(_:syncKeyBundle:) > Read keys from Keychain with label JYL9I1GXubfd.
++2019-09-13 14:29:39.325 [Info] [SyncStateMachine.swift:188] toReady(_:) > Advancing to InitialWithLiveToken.
++2019-09-13 14:29:39.326 [Info] [SyncStateMachine.swift:329] init(scratchpad:token:) > Inited initialWithLiveToken
++2019-09-13 14:29:39.327 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: InitialWithLiveToken
++2019-09-13 14:29:40.456 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:29:40.474 [Info] [SyncStateMachine.swift:329] init(scratchpad:token:) > Inited initialWithLiveTokenAndInfo
++2019-09-13 14:29:40.475 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: InitialWithLiveTokenAndInfo
++2019-09-13 14:29:40.475 [Debug] [SyncStateMachine.swift:770] advance() > Cached meta/global fetched at 1568304929660, newer than server modified 1566878631780. Using cached meta/global.
++2019-09-13 14:29:40.475 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited hasMetaGlobal
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: HasMetaGlobal
++2019-09-13 14:29:40.476 [Debug] [SyncStateMachine.swift:859] advance() > Cached keys fetched at 1568304929850, newer than server modified 1566878632080. Using cached keys.
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited hasFreshCryptoKeys
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: HasFreshCryptoKeys
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited ready
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: Ready
++2019-09-13 14:29:40.476 [Debug] [Profile.swift:1046] takeActionsOnEngineStateChanges(_:) > No collections need reset. Moving on.
++2019-09-13 14:29:40.476 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing clients…
++2019-09-13 14:29:40.476 [Debug] [Profile.swift:968] syncClientsWithDelegate(_:prefs:ready:why:) > Syncing clients to storage.
++2019-09-13 14:29:40.483 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.clients...'
++2019-09-13 14:29:40.483 [Debug] [ClientsSynchronizer.swift:368] synchronizeLocalClients(_:withServer:info:notifier:) > Synchronizing clients.
++2019-09-13 14:29:40.484 [Debug] [StorageClient.swift:792] getSince(_:sort:limit:offset:) > Issuing GET with newer = 0, offset = nil, sort = nil.
++2019-09-13 14:29:41.582 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:29:41.870 [Debug] [ClientsSynchronizer.swift:303] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Applying clients response.
++2019-09-13 14:29:41.870 [Debug] [ClientsSynchronizer.swift:310] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Got 4 client records.
++2019-09-13 14:29:41.870 [Debug] [ClientsSynchronizer.swift:324] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Skipping our own unmodified record.
++2019-09-13 14:29:42.050 [Debug] [ClientsSynchronizer.swift:195] processCommandsFromRecord(_:withServer:) > Processing commands from downloaded record.
++2019-09-13 14:29:42.050 [Debug] [ClientsSynchronizer.swift:279] maybeUploadOurRecord(_:ifUnmodifiedSince:toServer:) > Should we upload our client record? Caller = false, expired = false.
++2019-09-13 14:29:42.156 [Debug] [ClientsSynchronizer.swift:353] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Running 0 commands.
++2019-09-13 14:29:42.162 [Debug] [Profile.swift:978] syncClientsWithDelegate(_:prefs:ready:why:) > Updating FxA devices list.
++2019-09-13 14:29:43.331 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing tabs…
++2019-09-13 14:29:43.332 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.tabs...'
++2019-09-13 14:29:43.334 [Debug] [SQLiteRemoteClientsAndTabs.swift:236] getTabsForClientWithGUID(_:) > Looking for tabs for client with guid: nil
++2019-09-13 14:29:43.343 [Debug] [SQLiteRemoteClientsAndTabs.swift:239] getTabsForClientWithGUID(_:) > Found 1 tabs for client with guid: nil
++2019-09-13 14:29:43.345 [Debug] [TabsSynchronizer.swift:67] uploadOurTabs(_:toServer:) > Uploading our tabs: 1.
++2019-09-13 14:29:44.378 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:29:44.378 [Debug] [TabsSynchronizer.swift:77] uploadOurTabs(_:toServer:) > Tabs record upload succeeded. New timestamp: 1568377784210.
++2019-09-13 14:29:44.467 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing bookmarks…
++2019-09-13 14:29:44.467 [Debug] [Profile.swift:1024] syncBookmarksWithDelegate(_:prefs:ready:why:) > Syncing bookmarks to storage.
++2019-09-13 14:29:44.555 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Advancing state machine to ready (full)
++2019-09-13 14:29:45.614 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Syncing bookmarks engine!
++2019-09-13 14:29:45.615 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Syncing collection bookmarks
++2019-09-13 14:29:45.910 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Downloaded 0 remote changes
++2019-09-13 14:29:46.083 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Uploading 0 outgoing changes
++2019-09-13 14:29:46.083 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Upload success (0 records success, 0 records failed)
++2019-09-13 14:29:46.104 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Sync finished!
++2019-09-13 14:29:46.104 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Sync of bookmarks was successful!
++2019-09-13 14:29:46.104 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Updating persisted global state
++2019-09-13 14:29:46.114 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing history…
++2019-09-13 14:29:46.114 [Debug] [Profile.swift:992] syncHistoryWithDelegate(_:prefs:ready:why:) > Syncing history to storage.
++2019-09-13 14:29:46.114 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.history...'
++2019-09-13 14:29:46.114 [Debug] [Profile.swift:1316] greenLight() > Checking green light. Backgrounded: true.
++2019-09-13 14:29:46.115 [Info] [Downloader.swift:44] init(collectionClient:basePrefs:collection:) > Downloader configured with prefs 'profile.sync.synchronizer.history..downloader.history..'.
++2019-09-13 14:29:46.115 [Debug] [Downloader.swift:126] go(_:limit:) > Modified: 1568341328510; last 1568341328510.
++2019-09-13 14:29:46.115 [Debug] [Downloader.swift:128] go(_:limit:) > No more data to batch-download.
++2019-09-13 14:29:46.116 [Info] [HistorySynchronizer.swift:230] onBatchResult(_:) > No new data. No need to continue batching.
++2019-09-13 14:29:46.116 [Info] [HistorySynchronizer.swift:162] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Uploading 0 deleted places.
++2019-09-13 14:29:46.116 [Debug] [IndependentRecordSynchronizer.swift:103] uploadRecords(_:lastTimestamp:storageClient:onUpload:) > No modified records to upload.
++2019-09-13 14:29:46.182 [Info] [SQLiteHistory.swift:958] attachVisitsTo(places:visitLimit:) > Attaching 2 places to 10 most recent visits
++2019-09-13 14:29:46.182 [Info] [HistorySynchronizer.swift:173] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Uploading 2 modified places.
++2019-09-13 14:29:46.182 [Info] [HistorySynchronizer.swift:124] uploadModifiedPlaces(_:lastTimestamp:fromStorage:withServer:) > Preparing upload…
++2019-09-13 14:29:46.230 [Info] [HistorySynchronizer.swift:132] uploadModifiedPlaces(_:lastTimestamp:fromStorage:withServer:) > Uploading 2 history items…
++2019-09-13 14:29:47.034 [Debug] [SQLiteHistory.swift:988] markAsSynchronized(_:modified:) > Marking 2 GUIDs as synchronized. Returning timestamp 1568377786800.
++2019-09-13 14:29:47.042 [Debug] [Synchronizer.swift:273] setTimestamp(_:) > Setting post-upload lastFetched to 1568377786800.
++2019-09-13 14:29:47.044 [Debug] [HistorySynchronizer.swift:187] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Done syncing. Work was done? true
++2019-09-13 14:29:47.044 [Debug] [BrowserDB.swift:92] checkpoint() > Checkpointing a BrowserDB.
++2019-09-13 14:29:47.044 [Debug] [HistorySynchronizer.swift:189] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Done.
++2019-09-13 14:29:47.044 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing logins…
++2019-09-13 14:29:47.045 [Debug] [Profile.swift:1002] syncLoginsWithDelegate(_:prefs:ready:why:) > Syncing logins to storage.
++2019-09-13 14:29:47.140 [Debug] [SwiftData.swift:869] checkpoint(_:) > Running WAL checkpoint on /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db on thread <NSThread: 0x2808dc280>{number = 21, name = (null)}.
++2019-09-13 14:29:47.140 [Debug] [SwiftData.swift:871] checkpoint(_:) > WAL checkpoint done on /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:29:47.197 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Advancing state machine to ready (full)
++2019-09-13 14:29:49.580 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Syncing passwords engine!
++2019-09-13 14:29:49.581 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Syncing collection passwords
++2019-09-13 14:29:49.842 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Downloaded 0 remote changes
++2019-09-13 14:29:49.843 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Uploading 0 outgoing changes
++2019-09-13 14:29:49.843 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Upload success (0 records success, 0 records failed)
++2019-09-13 14:29:49.855 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Sync finished!
++2019-09-13 14:29:49.855 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Sync of passwords was successful!
++2019-09-13 14:29:49.855 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Updating persisted global state
++2019-09-13 14:29:49.868 [Info] [Profile.swift:719] endSyncing(_:) > Ending all queued syncs.
++2019-09-13 14:29:49.869 [Debug] [Profile.swift:339] _shutdown() > Shutting down profile.
++2019-09-13 14:29:49.875 [Info] [SyncAuthState.swift:121] token(_:canBeExpired:) > Returning cached token, which should be valid.
++2019-09-13 14:29:49.893 [Debug] [State.swift:458] unpickleV1FromPrefs(_:syncKeyBundle:) > Read keys from Keychain with label JYL9I1GXubfd.
++2019-09-13 14:29:49.919 [Debug] [SwiftData.swift:540] deinit > deinit: closing connection on thread <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:29:49.919 [Debug] [SwiftData.swift:978] closeCustomConnection(immediately:) > Closing custom connection for /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db on <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:29:49.924 [Debug] [SwiftData.swift:1010] closeCustomConnection(immediately:) > Closed /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:29:49.925 [Debug] [SwiftData.swift:540] deinit > deinit: closing connection on thread <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:29:49.925 [Debug] [SwiftData.swift:978] closeCustomConnection(immediately:) > Closing custom connection for /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db on <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:29:49.929 [Debug] [SwiftData.swift:1010] closeCustomConnection(immediately:) > Closed /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
+--
+Working Copy 4.3.0
+
+
+
+# 2020-07-13
+
+From 9eb3b77dfd14e5963ada7a66d2feaa157c2e162e Mon Sep 17 00:00:00 2001
+From: ༺࿇AMB🔥RI࿈ELོ⚡️࿇༻ ༺࿇Arcོh࿇Angོel࿇༻ <psinab@icloud.com>
+Date: Mon, 13 Jul 2020 11:05:21 +0200
+Subject: [PATCH] bootstrap.pages
+
+Bear config.yml.txt bootstrap.pages
+---
+ bootstrap.pages               | Bin 0 -> 58156 bytes
+ clipboard-2.txt               |   1 +
+ config.yml.txt                |  13 +++++++++++++
+ sync.20190913T142513+0200.log | 222 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 236 insertions(+)
+ create mode 100755 bootstrap.pages
+ create mode 100644 clipboard-2.txt
+ create mode 100644 config.yml.txt
+ create mode 100644 sync.20190913T142513+0200.log
+
+diff --git a/bootstrap.pages b/bootstrap.pages
+new file mode 100755
+index 0000000000000000000000000000000000000000..5609d70598e08bfbb50a1f5bfa04221fb5b96220
+GIT binary patch
+literal 58156
+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
+zQuI</code>Ez#E<em>t3=hP{u$PM(u&amp;Au0xKOSPq&amp;JVAG{2m{viy?b(ZkaYbX*=Y)K;3GTTHWK
+zlR_VUE1|^x#OQ(&amp;<code>(wpLd3Jp})fP&gt;MVWW%k7LE%pHBn#DuG65lU</code>!8wsGz7|&lt;mi#@
+zi&amp;SxeipX4BsXe@$<em>LTsk?+lNj(6xwc67|?)-FjqYJoZ@oPKrod<code>$^</code>m5J</em>=P*<code>Eyf
+z!Q2</code>kDrmsqE|6uk&lt;Q5l~QGZ|?6&#8211;8G@zlRE5c!+&lt;5x+{f@_a*Wp8mRE$S0J(LD35wa
+zMiHkEv9olxg`&gt;z+IkD3y=T`V)6b0<code>z!zkdz=oUYUDp(XgA^Mc)OOyvr^</code>|&gt;l(#d;t
+zGDS%zo9N^-I&amp;rD!WGkH&lt;rIS-?I{8?-H}JXUbh3d?HWE={cc+FDwrR|~!j}gP1Vf5K
+z^-&amp;;ov)Py%pjJ|6TM<code>t&gt;O~Zhe8tQd-V^A=(M~zark9X_l</code>9UY<code>&amp;M&lt;Xp*wYxTTv3B7
+zYj9N!zFLD*5GxTJ2n!IFBdkMVKoG3Jo=T2iSwry&lt;y6iYM&gt;ut|S&lt;UdDHX9p?iu1IXB
+z5yJSIhqd4Mb&amp;re|R@dN~8eCh0&gt;uT_|8eA</code>E6t_oBVQdU|mywj~YcLq^;{+kXq|l^A
+z<code>%ZSKjpPraww(f^1HR=aJ8*C~b</code>0vmLohz+83cm{0Uq*ffPNbwybYcA8wBB{Qpl~Z
+z@#JH_e1yofiAi=@=htg+Lk(`EF{uXMsKLz{18)!06t5em)9moNXE6</em>~45E&lt;!IH*68
+zkk_!^YuH!_Z1(KNLAy!Dgs+&amp;4Ej75c2H&amp;i~w`y=(4Q{7$&gt;xO)aza_0F!FH0d&lt;(_41
+z_sY&lt;Gk)RY5{DLoD;&gt;gr%&amp;9GP?=E49D&lt;QM=;&lt;N@4|!r5LiG7Yq1K#b6WpQnn1QQC9y
+znuuWJQT=1QQcsVcdU|wJDt3o#7yv^sU;T8vdSU$8Gs%k(V^<em>T9bj</em>4Ldg_F|@</p>
+vw
+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
+z@~5_kUw<code>)v*d</code>zk_z=3upH68!f;Po~a6UAi8Grlu3DI90+%-ID^rHdVgV5{mf!RSs
+zY8$ZU<em>N$F_)$</em>4&lt;UF$$Eg%<code>2P{2r^;&lt;8Pi3lbSv;G&amp;Z&lt;xU~KS5bX4*O5SjV)=aGq!
+z|6=5qEk;9EPa#Br_Iq@Hiss5GwD7~cxY$9m2&lt;=U&gt;@Y?g3IM2Yb6Qy7j93y^P$PdEE
+z0NPu$!{^?=c=q%KrL&amp;4k7vI-ZRMFH&gt;Qq(xBaar;F</code>E%!#wa#j)oH&gt;0C+&lt;gTw4F9X$
+z3Zl?I9Vb?wqFZ}pimwn?$Y`_|hizRpd-|=Rq46IFszNXIDZ23{c?P;cDRNYSmrrA?
+zDPIkbWOy_zm^Q}LVL%r95oBzEdr?*46z2pUnYJ1e=)wx&gt;AxP#HS?}CeSI_rh_G5T&gt;
+zP+&amp;!B=tL?VNa7LBQslrej<code>w=fFiQnbNNY</code>PWUR(F6Cta&amp;$hC;N2J&lt;#Y))0oL#AP<em>P
+z#zeY<code>0vWtTI=J{Q_6&lt;b~Ix(CZV;&lt;(&lt;&gt;NUR$NRuscD2*}5%~@uChTE6rq</code>Kv@I-9T?
+zGUR3-j3!AAPTQ=@$ny}qjhj}5g|YnIGJl1D$=+MBmO0qCB~A0IF+6A?</em>uShQzxYca
+zowrEmE}o#jYlU|YcNiH7&lt;@-1c#S_M6Z6&amp;jyDsf&gt;nX@S23_a0mEYVaNJYQS#nCr^Pr
+zd&amp;%=Ay&gt;l~#p1c+e5AI@zZ<code>Nfm#1RG+</code>4R?o6uK17lut5cahD-?H;&gt;3B)8i1WXAlu&gt;
+zc4n8GYyBLn1H<em>H=ot&#8211;tI3ACHT=F5v)~1en_GCRj55vP2%I#ccN(G+-8MLKALTr_T
+z^-MqaES@}5&gt;z$D&gt;P+d(}TeTIk(8X@K(7BA0j^SP|9{E+?6-(EEjM_@4RZ6#ITyBiu
+zOWZ!dr8myfq^zAt3h@T@y&lt;}SsuP{hh&amp;rQPcM6c@d&amp;MD4PHW6&gt;)^OC^fjN4lTKo=j#
+z*&Iw;3Yv)|NT)5*!)(#Q!LE?|3C`uP?bBI7X-)(=xMgl(RwcjNh0A+{d-_c</em>w|FF(
+z6</p>
+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
+RaWn<~%R~_RxSRO){{WaN)I|UQ
+
+literal 0
+Hc$@<O00001
+
+diff --git a/clipboard-2.txt b/clipboard-2.txt
+new file mode 100644
+index 0000000..eb0d714
+--- /dev/null
++++ b/clipboard-2.txt
+@@ -0,0 +1 @@
++Build into the matrix of humans on planet earth- This is ordered by the "Higher Commander" Aslan - REX III THE KING OF SVEA and THE creature of the digital system and Matrix on this planet earth- Following my commands right away- That's a order!
+\ No newline at end of file
+diff --git a/config.yml.txt b/config.yml.txt
+new file mode 100644
+index 0000000..01c267c
+--- /dev/null
++++ b/config.yml.txt
+@@ -0,0 +1,13 @@
++# Use the latest 2.1 version of CircleCI pipeline process engine. See: https://circleci.com/docs/2.0/configuration-reference
++version: 2.1
++# Use a package of configuration called an orb.
++orbs:
++  # Declare a dependency on the welcome-orb
++  welcome: circleci/welcome-orb@0.4.1
++# Orchestrate or schedule a set of jobs
++workflows:
++  # Name the workflow "welcome"
++  welcome:
++    # Run the welcome/run job in its own container
++    jobs:
++      - welcome/run
+\ No newline at end of file
+diff --git a/sync.20190913T142513+0200.log b/sync.20190913T142513+0200.log
+new file mode 100644
+index 0000000..40e3a4f
+--- /dev/null
++++ b/sync.20190913T142513+0200.log
+@@ -0,0 +1,222 @@
++2019-09-13 14:25:13.446 [Info] > XCGLogger writing log to: file:///var/mobile/Containers/Data/Application/CBB3BDAF-E38D-4C7B-82A5-86EE0070B01D/Documents/Logs/sync.20190913T142513+0200.log
++2019-09-13 14:25:13.446 [Info] [RollingFileLogger.swift:46] newLogWithDate(_:) > Created file destination for logger with root: sync and timestamp: 2019-09-13 12:25:13 +0000
++2019-09-13 14:25:13.454 [Debug] [Profile.swift:209] init(localName:syncDelegate:clear:) > Initing profile profile on thread <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:25:13.467 [Info] [BrowserSchema.swift:159] init() > SQLite version: 3.27.2 (3027002).
++2019-09-13 14:25:13.469 [Debug] [BrowserDB.swift:23] init(filename:schema:files:) > Initializing BrowserDB: browser.db.
++2019-09-13 14:25:13.478 [Debug] [BrowserDB.swift:23] init(filename:schema:files:) > Initializing BrowserDB: ReadingList.db.
++2019-09-13 14:25:13.785 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][rc_log_ffi::ios] rc_log adapter initialized!
++2019-09-13 14:25:14.083 [Debug] [SwiftData.swift:448] init(filename:flags:schema:files:) > Opening connection to /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:25:14.175 [Debug] [Profile.swift:330] _reopen() > Reopening profile.
++2019-09-13 14:25:14.204 [Info] [SwiftData.swift:609] prepareCleartext() > Enabling WAL mode.
++2019-09-13 14:25:14.231 [Debug] [SwiftData.swift:716] prepareSchema() > Schema BROWSER already exists at version 40. Skipping additional schema preparation.
++2019-09-13 14:25:14.231 [Debug] [SwiftData.swift:488] init(filename:flags:schema:files:) > Database successfully created or updated.
++2019-09-13 14:25:14.357 [Debug] [Profile.swift:951] beginTimedSyncs() > Starting sync timer.
++2019-09-13 14:25:14.358 [Debug] [Profile.swift:682] applicationDidBecomeActive() > 71662829msec since last sync.
++2019-09-13 14:25:19.659 [Debug] [SwiftData.swift:448] init(filename:flags:schema:files:) > Opening connection to /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:25:19.663 [Info] [SwiftData.swift:609] prepareCleartext() > Enabling WAL mode.
++2019-09-13 14:25:19.670 [Debug] [SwiftData.swift:702] prepareSchema() > Skipping schema (BROWSER) preparation for read-only connection.
++2019-09-13 14:25:19.670 [Debug] [SwiftData.swift:488] init(filename:flags:schema:files:) > Database successfully created or updated.
++2019-09-13 14:25:24.365 [Debug] [Profile.swift:1227] syncEverythingSoon() > Running delayed startup sync.
++2019-09-13 14:25:24.383 [Info] [Profile.swift:1167] syncWith(synchronizers:account:statsSession:why:) > Syncing ["clients", "tabs", "bookmarks", "history", "logins"]
++2019-09-13 14:25:24.394 [Debug] [SyncAuthState.swift:126] token(_:canBeExpired:) > Advancing Account state.
++2019-09-13 14:25:24.395 [Debug] [FirefoxAccount.swift:528] advance() > no advance() in progress; setting and returning new shared deferred.
++2019-09-13 14:25:24.398 [Info] [FxALoginStateMachine.swift:51] advanceOne(fromState:now:) > Advancing from state: married
++2019-09-13 14:25:24.399 [Debug] [FxALoginStateMachine.swift:55] advanceOne(fromState:now:) > Checking key pair freshness.
++2019-09-13 14:25:24.399 [Debug] [FxALoginStateMachine.swift:60] advanceOne(fromState:now:) > Checking certificate freshness.
++2019-09-13 14:25:24.399 [Info] [FxALoginStateMachine.swift:65] advanceOne(fromState:now:) > Key pair and certificate are fresh; staying Married.
++2019-09-13 14:25:24.447 [Debug] [FirefoxAccount.swift:537] advance() > advance() completed and shared deferred is existing deferred; clearing shared deferred.
++2019-09-13 14:25:24.448 [Info] [SyncAuthState.swift:129] token(_:canBeExpired:) > Account is in Married state; generating assertion.
++2019-09-13 14:25:24.448 [Debug] [SyncAuthState.swift:134] token(_:canBeExpired:) > Fetching token server token.
++2019-09-13 14:25:27.773 [Debug] [SyncAuthState.swift:143] token(_:canBeExpired:) > Fetched token server token!  Token expires at 1568381124393.
++2019-09-13 14:25:27.774 [Debug] [SyncStateMachine.swift:148] toReady(_:) > Got token from auth state.
++2019-09-13 14:25:27.814 [Debug] [State.swift:458] unpickleV1FromPrefs(_:syncKeyBundle:) > Read keys from Keychain with label JYL9I1GXubfd.
++2019-09-13 14:25:27.815 [Info] [SyncStateMachine.swift:188] toReady(_:) > Advancing to InitialWithLiveToken.
++2019-09-13 14:25:27.816 [Info] [SyncStateMachine.swift:329] init(scratchpad:token:) > Inited initialWithLiveToken
++2019-09-13 14:25:27.818 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: InitialWithLiveToken
++2019-09-13 14:25:29.984 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:25:29.990 [Info] [SyncStateMachine.swift:329] init(scratchpad:token:) > Inited initialWithLiveTokenAndInfo
++2019-09-13 14:25:29.993 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: InitialWithLiveTokenAndInfo
++2019-09-13 14:25:29.994 [Debug] [SyncStateMachine.swift:770] advance() > Cached meta/global fetched at 1568304929660, newer than server modified 1566878631780. Using cached meta/global.
++2019-09-13 14:25:29.994 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited hasMetaGlobal
++2019-09-13 14:25:29.995 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: HasMetaGlobal
++2019-09-13 14:25:29.995 [Debug] [SyncStateMachine.swift:859] advance() > Cached keys fetched at 1568304929850, newer than server modified 1566878632080. Using cached keys.
++2019-09-13 14:25:29.996 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited hasFreshCryptoKeys
++2019-09-13 14:25:29.996 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: HasFreshCryptoKeys
++2019-09-13 14:25:29.997 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited ready
++2019-09-13 14:25:29.997 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: Ready
++2019-09-13 14:25:30.000 [Debug] [Profile.swift:1046] takeActionsOnEngineStateChanges(_:) > No collections need reset. Moving on.
++2019-09-13 14:25:30.004 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing clients…
++2019-09-13 14:25:30.005 [Debug] [Profile.swift:968] syncClientsWithDelegate(_:prefs:ready:why:) > Syncing clients to storage.
++2019-09-13 14:25:30.006 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.clients...'
++2019-09-13 14:25:30.006 [Debug] [ClientsSynchronizer.swift:368] synchronizeLocalClients(_:withServer:info:notifier:) > Synchronizing clients.
++2019-09-13 14:25:30.009 [Debug] [StorageClient.swift:792] getSince(_:sort:limit:offset:) > Issuing GET with newer = 0, offset = nil, sort = nil.
++2019-09-13 14:25:35.114 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:25:35.128 [Debug] [ClientsSynchronizer.swift:303] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Applying clients response.
++2019-09-13 14:25:35.128 [Debug] [ClientsSynchronizer.swift:310] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Got 4 client records.
++2019-09-13 14:25:35.129 [Debug] [ClientsSynchronizer.swift:324] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Skipping our own unmodified record.
++2019-09-13 14:25:35.140 [Debug] [ClientsSynchronizer.swift:195] processCommandsFromRecord(_:withServer:) > Processing commands from downloaded record.
++2019-09-13 14:25:35.141 [Debug] [ClientsSynchronizer.swift:279] maybeUploadOurRecord(_:ifUnmodifiedSince:toServer:) > Should we upload our client record? Caller = false, expired = false.
++2019-09-13 14:25:35.144 [Debug] [ClientsSynchronizer.swift:353] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Running 0 commands.
++2019-09-13 14:25:35.148 [Debug] [Profile.swift:978] syncClientsWithDelegate(_:prefs:ready:why:) > Updating FxA devices list.
++2019-09-13 14:25:36.816 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing tabs…
++2019-09-13 14:25:36.817 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.tabs...'
++2019-09-13 14:25:36.817 [Debug] [StorageClient.swift:792] getSince(_:sort:limit:offset:) > Issuing GET with newer = 1568305817480, offset = nil, sort = nil.
++2019-09-13 14:25:37.583 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:25:37.608 [Debug] [TabsSynchronizer.swift:118] afterWipe() > Got 1 tab records.
++2019-09-13 14:25:37.634 [Debug] [SQLiteRemoteClientsAndTabs.swift:236] getTabsForClientWithGUID(_:) > Looking for tabs for client with guid: nil
++2019-09-13 14:25:37.635 [Debug] [SQLiteRemoteClientsAndTabs.swift:239] getTabsForClientWithGUID(_:) > Found 0 tabs for client with guid: nil
++2019-09-13 14:25:37.636 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing bookmarks…
++2019-09-13 14:25:37.636 [Debug] [Profile.swift:1024] syncBookmarksWithDelegate(_:prefs:ready:why:) > Syncing bookmarks to storage.
++2019-09-13 14:25:41.028 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Advancing state machine to ready (full)
++2019-09-13 14:25:41.033 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][viaduct::backend] Using HTTP backend reqwest (untrusted)
++2019-09-13 14:25:44.107 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Syncing bookmarks engine!
++2019-09-13 14:25:44.108 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Syncing collection bookmarks
++2019-09-13 14:25:44.414 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Downloaded 2 remote changes
++2019-09-13 14:25:44.607 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Uploading 0 outgoing changes
++2019-09-13 14:25:44.607 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Upload success (0 records success, 0 records failed)
++2019-09-13 14:25:44.620 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Sync finished!
++2019-09-13 14:25:44.620 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Sync of bookmarks was successful!
++2019-09-13 14:25:44.620 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Updating persisted global state
++2019-09-13 14:25:44.626 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing history…
++2019-09-13 14:25:44.626 [Debug] [Profile.swift:992] syncHistoryWithDelegate(_:prefs:ready:why:) > Syncing history to storage.
++2019-09-13 14:25:44.627 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.history...'
++2019-09-13 14:25:44.627 [Debug] [Profile.swift:1316] greenLight() > Checking green light. Backgrounded: false.
++2019-09-13 14:25:44.629 [Info] [Downloader.swift:44] init(collectionClient:basePrefs:collection:) > Downloader configured with prefs 'profile.sync.synchronizer.history..downloader.history..'.
++2019-09-13 14:25:44.630 [Debug] [Downloader.swift:126] go(_:limit:) > Modified: 1568341328510; last 1568305850220.
++2019-09-13 14:25:44.630 [Debug] [Downloader.swift:156] downloadNextBatchWithLimit(_:infoModified:) > Fetching newer=1568305850220, offset=nil.
++2019-09-13 14:25:44.631 [Debug] [StorageClient.swift:792] getSince(_:sort:limit:offset:) > Issuing GET with newer = 1568305850220, offset = nil, sort = OldestFirst.
++2019-09-13 14:25:47.773 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:25:47.862 [Debug] [Downloader.swift:174] handleSuccess(_:) > Handling success.
++2019-09-13 14:25:47.863 [Debug] [Downloader.swift:208] handleSuccess(_:) > Got success response with 284 records.
++2019-09-13 14:25:47.864 [Info] [HistorySynchronizer.swift:217] onBatchResult(_:) > Done with batched mirroring.
++2019-09-13 14:25:50.629 [Debug] [Downloader.swift:191] handleSuccess(_:) > Advancing baseTimestamp to 1568341328510 - 1
++2019-09-13 14:25:50.630 [Debug] [Downloader.swift:203] handleSuccess(_:) > Advancing lastModified to Optional(1568341328510) ?? 1568341328510.
++2019-09-13 14:25:50.632 [Debug] [BrowserDB.swift:92] checkpoint() > Checkpointing a BrowserDB.
++2019-09-13 14:25:50.632 [Debug] [SwiftData.swift:869] checkpoint(_:) > Running WAL checkpoint on /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db on thread <NSThread: 0x2808b6200>{number = 11, name = (null)}.
++2019-09-13 14:25:50.632 [Debug] [SwiftData.swift:871] checkpoint(_:) > WAL checkpoint done on /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:25:50.633 [Info] [HistorySynchronizer.swift:162] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Uploading 0 deleted places.
++2019-09-13 14:25:50.633 [Debug] [IndependentRecordSynchronizer.swift:103] uploadRecords(_:lastTimestamp:storageClient:onUpload:) > No modified records to upload.
++2019-09-13 14:25:50.634 [Info] [SQLiteHistory.swift:958] attachVisitsTo(places:visitLimit:) > Attaching 0 places to 0 most recent visits
++2019-09-13 14:25:50.635 [Info] [HistorySynchronizer.swift:173] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Uploading 0 modified places.
++2019-09-13 14:25:50.635 [Info] [HistorySynchronizer.swift:124] uploadModifiedPlaces(_:lastTimestamp:fromStorage:withServer:) > Preparing upload…
++2019-09-13 14:25:50.635 [Debug] [HistorySynchronizer.swift:187] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Done syncing. Work was done? false
++2019-09-13 14:25:50.635 [Debug] [HistorySynchronizer.swift:189] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Done.
++2019-09-13 14:25:50.635 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing logins…
++2019-09-13 14:25:50.635 [Debug] [Profile.swift:1002] syncLoginsWithDelegate(_:prefs:ready:why:) > Syncing logins to storage.
++2019-09-13 14:25:50.650 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Advancing state machine to ready (full)
++2019-09-13 14:25:51.940 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Syncing passwords engine!
++2019-09-13 14:25:51.941 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Syncing collection passwords
++2019-09-13 14:25:52.232 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Downloaded 3 remote changes
++2019-09-13 14:25:52.275 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Uploading 0 outgoing changes
++2019-09-13 14:25:52.275 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Upload success (0 records success, 0 records failed)
++2019-09-13 14:25:52.295 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Sync finished!
++2019-09-13 14:25:52.296 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Sync of passwords was successful!
++2019-09-13 14:25:52.298 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Updating persisted global state
++2019-09-13 14:25:52.333 [Info] [Profile.swift:719] endSyncing(_:) > Ending all queued syncs.
++2019-09-13 14:25:52.337 [Info] [SyncAuthState.swift:121] token(_:canBeExpired:) > Returning cached token, which should be valid.
++2019-09-13 14:25:52.348 [Debug] [State.swift:458] unpickleV1FromPrefs(_:syncKeyBundle:) > Read keys from Keychain with label JYL9I1GXubfd.
++2019-09-13 14:26:23.952 [Info] [FxALoginStateMachine.swift:51] advanceOne(fromState:now:) > Advancing from state: married
++2019-09-13 14:26:23.952 [Debug] [FirefoxAccount.swift:528] advance() > no advance() in progress; setting and returning new shared deferred.
++2019-09-13 14:26:23.954 [Debug] [FxALoginStateMachine.swift:55] advanceOne(fromState:now:) > Checking key pair freshness.
++2019-09-13 14:26:23.954 [Debug] [FxALoginStateMachine.swift:60] advanceOne(fromState:now:) > Checking certificate freshness.
++2019-09-13 14:26:23.954 [Info] [FxALoginStateMachine.swift:65] advanceOne(fromState:now:) > Key pair and certificate are fresh; staying Married.
++2019-09-13 14:26:23.977 [Debug] [FirefoxAccount.swift:537] advance() > advance() completed and shared deferred is existing deferred; clearing shared deferred.
++2019-09-13 14:26:36.345 [Debug] [FirefoxAccount.swift:528] advance() > no advance() in progress; setting and returning new shared deferred.
++2019-09-13 14:26:36.345 [Info] [FxALoginStateMachine.swift:51] advanceOne(fromState:now:) > Advancing from state: married
++2019-09-13 14:26:36.346 [Debug] [FxALoginStateMachine.swift:55] advanceOne(fromState:now:) > Checking key pair freshness.
++2019-09-13 14:26:36.346 [Debug] [FxALoginStateMachine.swift:60] advanceOne(fromState:now:) > Checking certificate freshness.
++2019-09-13 14:26:36.347 [Info] [FxALoginStateMachine.swift:65] advanceOne(fromState:now:) > Key pair and certificate are fresh; staying Married.
++2019-09-13 14:26:36.381 [Debug] [FirefoxAccount.swift:537] advance() > advance() completed and shared deferred is existing deferred; clearing shared deferred.
++2019-09-13 14:29:39.265 [Debug] [Profile.swift:961] endTimedSyncs() > Stopping sync timer.
++2019-09-13 14:29:39.276 [Info] [Profile.swift:1167] syncWith(synchronizers:account:statsSession:why:) > Syncing ["clients", "tabs", "bookmarks", "history", "logins"]
++2019-09-13 14:29:39.290 [Info] [SyncAuthState.swift:121] token(_:canBeExpired:) > Returning cached token, which should be valid.
++2019-09-13 14:29:39.293 [Debug] [SyncStateMachine.swift:148] toReady(_:) > Got token from auth state.
++2019-09-13 14:29:39.323 [Debug] [State.swift:458] unpickleV1FromPrefs(_:syncKeyBundle:) > Read keys from Keychain with label JYL9I1GXubfd.
++2019-09-13 14:29:39.325 [Info] [SyncStateMachine.swift:188] toReady(_:) > Advancing to InitialWithLiveToken.
++2019-09-13 14:29:39.326 [Info] [SyncStateMachine.swift:329] init(scratchpad:token:) > Inited initialWithLiveToken
++2019-09-13 14:29:39.327 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: InitialWithLiveToken
++2019-09-13 14:29:40.456 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:29:40.474 [Info] [SyncStateMachine.swift:329] init(scratchpad:token:) > Inited initialWithLiveTokenAndInfo
++2019-09-13 14:29:40.475 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: InitialWithLiveTokenAndInfo
++2019-09-13 14:29:40.475 [Debug] [SyncStateMachine.swift:770] advance() > Cached meta/global fetched at 1568304929660, newer than server modified 1566878631780. Using cached meta/global.
++2019-09-13 14:29:40.475 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited hasMetaGlobal
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: HasMetaGlobal
++2019-09-13 14:29:40.476 [Debug] [SyncStateMachine.swift:859] advance() > Cached keys fetched at 1568304929850, newer than server modified 1566878632080. Using cached keys.
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited hasFreshCryptoKeys
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: HasFreshCryptoKeys
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:313] init(client:scratchpad:token:) > Inited ready
++2019-09-13 14:29:40.476 [Info] [SyncStateMachine.swift:122] advanceFromState(_:) > advanceFromState: Ready
++2019-09-13 14:29:40.476 [Debug] [Profile.swift:1046] takeActionsOnEngineStateChanges(_:) > No collections need reset. Moving on.
++2019-09-13 14:29:40.476 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing clients…
++2019-09-13 14:29:40.476 [Debug] [Profile.swift:968] syncClientsWithDelegate(_:prefs:ready:why:) > Syncing clients to storage.
++2019-09-13 14:29:40.483 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.clients...'
++2019-09-13 14:29:40.483 [Debug] [ClientsSynchronizer.swift:368] synchronizeLocalClients(_:withServer:info:notifier:) > Synchronizing clients.
++2019-09-13 14:29:40.484 [Debug] [StorageClient.swift:792] getSince(_:sort:limit:offset:) > Issuing GET with newer = 0, offset = nil, sort = nil.
++2019-09-13 14:29:41.582 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:29:41.870 [Debug] [ClientsSynchronizer.swift:303] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Applying clients response.
++2019-09-13 14:29:41.870 [Debug] [ClientsSynchronizer.swift:310] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Got 4 client records.
++2019-09-13 14:29:41.870 [Debug] [ClientsSynchronizer.swift:324] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Skipping our own unmodified record.
++2019-09-13 14:29:42.050 [Debug] [ClientsSynchronizer.swift:195] processCommandsFromRecord(_:withServer:) > Processing commands from downloaded record.
++2019-09-13 14:29:42.050 [Debug] [ClientsSynchronizer.swift:279] maybeUploadOurRecord(_:ifUnmodifiedSince:toServer:) > Should we upload our client record? Caller = false, expired = false.
++2019-09-13 14:29:42.156 [Debug] [ClientsSynchronizer.swift:353] applyStorageResponse(_:toLocalClients:withServer:notifier:) > Running 0 commands.
++2019-09-13 14:29:42.162 [Debug] [Profile.swift:978] syncClientsWithDelegate(_:prefs:ready:why:) > Updating FxA devices list.
++2019-09-13 14:29:43.331 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing tabs…
++2019-09-13 14:29:43.332 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.tabs...'
++2019-09-13 14:29:43.334 [Debug] [SQLiteRemoteClientsAndTabs.swift:236] getTabsForClientWithGUID(_:) > Looking for tabs for client with guid: nil
++2019-09-13 14:29:43.343 [Debug] [SQLiteRemoteClientsAndTabs.swift:239] getTabsForClientWithGUID(_:) > Found 1 tabs for client with guid: nil
++2019-09-13 14:29:43.345 [Debug] [TabsSynchronizer.swift:67] uploadOurTabs(_:toServer:) > Uploading our tabs: 1.
++2019-09-13 14:29:44.378 [Debug] [StorageClient.swift:372] failFromResponse(_:) > Status code: 200.
++2019-09-13 14:29:44.378 [Debug] [TabsSynchronizer.swift:77] uploadOurTabs(_:toServer:) > Tabs record upload succeeded. New timestamp: 1568377784210.
++2019-09-13 14:29:44.467 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing bookmarks…
++2019-09-13 14:29:44.467 [Debug] [Profile.swift:1024] syncBookmarksWithDelegate(_:prefs:ready:why:) > Syncing bookmarks to storage.
++2019-09-13 14:29:44.555 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Advancing state machine to ready (full)
++2019-09-13 14:29:45.614 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Syncing bookmarks engine!
++2019-09-13 14:29:45.615 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Syncing collection bookmarks
++2019-09-13 14:29:45.910 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Downloaded 0 remote changes
++2019-09-13 14:29:46.083 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Uploading 0 outgoing changes
++2019-09-13 14:29:46.083 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Upload success (0 records success, 0 records failed)
++2019-09-13 14:29:46.104 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Sync finished!
++2019-09-13 14:29:46.104 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Sync of bookmarks was successful!
++2019-09-13 14:29:46.104 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Updating persisted global state
++2019-09-13 14:29:46.114 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing history…
++2019-09-13 14:29:46.114 [Debug] [Profile.swift:992] syncHistoryWithDelegate(_:prefs:ready:why:) > Syncing history to storage.
++2019-09-13 14:29:46.114 [Info] [Synchronizer.swift:202] init(scratchpad:delegate:basePrefs:why:collection:) > Synchronizer configured with prefs 'profile.sync.synchronizer.history...'
++2019-09-13 14:29:46.114 [Debug] [Profile.swift:1316] greenLight() > Checking green light. Backgrounded: true.
++2019-09-13 14:29:46.115 [Info] [Downloader.swift:44] init(collectionClient:basePrefs:collection:) > Downloader configured with prefs 'profile.sync.synchronizer.history..downloader.history..'.
++2019-09-13 14:29:46.115 [Debug] [Downloader.swift:126] go(_:limit:) > Modified: 1568341328510; last 1568341328510.
++2019-09-13 14:29:46.115 [Debug] [Downloader.swift:128] go(_:limit:) > No more data to batch-download.
++2019-09-13 14:29:46.116 [Info] [HistorySynchronizer.swift:230] onBatchResult(_:) > No new data. No need to continue batching.
++2019-09-13 14:29:46.116 [Info] [HistorySynchronizer.swift:162] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Uploading 0 deleted places.
++2019-09-13 14:29:46.116 [Debug] [IndependentRecordSynchronizer.swift:103] uploadRecords(_:lastTimestamp:storageClient:onUpload:) > No modified records to upload.
++2019-09-13 14:29:46.182 [Info] [SQLiteHistory.swift:958] attachVisitsTo(places:visitLimit:) > Attaching 2 places to 10 most recent visits
++2019-09-13 14:29:46.182 [Info] [HistorySynchronizer.swift:173] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Uploading 2 modified places.
++2019-09-13 14:29:46.182 [Info] [HistorySynchronizer.swift:124] uploadModifiedPlaces(_:lastTimestamp:fromStorage:withServer:) > Preparing upload…
++2019-09-13 14:29:46.230 [Info] [HistorySynchronizer.swift:132] uploadModifiedPlaces(_:lastTimestamp:fromStorage:withServer:) > Uploading 2 history items…
++2019-09-13 14:29:47.034 [Debug] [SQLiteHistory.swift:988] markAsSynchronized(_:modified:) > Marking 2 GUIDs as synchronized. Returning timestamp 1568377786800.
++2019-09-13 14:29:47.042 [Debug] [Synchronizer.swift:273] setTimestamp(_:) > Setting post-upload lastFetched to 1568377786800.
++2019-09-13 14:29:47.044 [Debug] [HistorySynchronizer.swift:187] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Done syncing. Work was done? true
++2019-09-13 14:29:47.044 [Debug] [BrowserDB.swift:92] checkpoint() > Checkpointing a BrowserDB.
++2019-09-13 14:29:47.044 [Debug] [HistorySynchronizer.swift:189] uploadOutgoingFromStorage(_:lastTimestamp:withServer:) > Done.
++2019-09-13 14:29:47.044 [Debug] [Profile.swift:1184] syncWith(synchronizers:account:statsSession:why:) > Syncing logins…
++2019-09-13 14:29:47.045 [Debug] [Profile.swift:1002] syncLoginsWithDelegate(_:prefs:ready:why:) > Syncing logins to storage.
++2019-09-13 14:29:47.140 [Debug] [SwiftData.swift:869] checkpoint(_:) > Running WAL checkpoint on /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db on thread <NSThread: 0x2808dc280>{number = 21, name = (null)}.
++2019-09-13 14:29:47.140 [Debug] [SwiftData.swift:871] checkpoint(_:) > WAL checkpoint done on /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:29:47.197 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Advancing state machine to ready (full)
++2019-09-13 14:29:49.580 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Syncing passwords engine!
++2019-09-13 14:29:49.581 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Syncing collection passwords
++2019-09-13 14:29:49.842 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Downloaded 0 remote changes
++2019-09-13 14:29:49.843 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Uploading 0 outgoing changes
++2019-09-13 14:29:49.843 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Upload success (0 records success, 0 records failed)
++2019-09-13 14:29:49.855 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync] Sync finished!
++2019-09-13 14:29:49.855 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Sync of passwords was successful!
++2019-09-13 14:29:49.855 [Info] [Profile.swift:263] init(localName:syncDelegate:clear:) > [RUST][sync15::sync_multiple] Updating persisted global state
++2019-09-13 14:29:49.868 [Info] [Profile.swift:719] endSyncing(_:) > Ending all queued syncs.
++2019-09-13 14:29:49.869 [Debug] [Profile.swift:339] _shutdown() > Shutting down profile.
++2019-09-13 14:29:49.875 [Info] [SyncAuthState.swift:121] token(_:canBeExpired:) > Returning cached token, which should be valid.
++2019-09-13 14:29:49.893 [Debug] [State.swift:458] unpickleV1FromPrefs(_:syncKeyBundle:) > Read keys from Keychain with label JYL9I1GXubfd.
++2019-09-13 14:29:49.919 [Debug] [SwiftData.swift:540] deinit > deinit: closing connection on thread <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:29:49.919 [Debug] [SwiftData.swift:978] closeCustomConnection(immediately:) > Closing custom connection for /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db on <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:29:49.924 [Debug] [SwiftData.swift:1010] closeCustomConnection(immediately:) > Closed /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
++2019-09-13 14:29:49.925 [Debug] [SwiftData.swift:540] deinit > deinit: closing connection on thread <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:29:49.925 [Debug] [SwiftData.swift:978] closeCustomConnection(immediately:) > Closing custom connection for /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db on <NSThread: 0x280842fc0>{number = 1, name = main}.
++2019-09-13 14:29:49.929 [Debug] [SwiftData.swift:1010] closeCustomConnection(immediately:) > Closed /private/var/mobile/Containers/Shared/AppGroup/3AC9B56F-1595-457E-AB40-532540485C00/profile.profile/browser.db.
+--
+Working Copy 4.3.0
+
+
